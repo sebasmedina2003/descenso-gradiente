@@ -1,0 +1,1 @@
+# descenso-gradiente
